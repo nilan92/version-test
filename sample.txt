@@ -1,0 +1,1 @@
+Sample changes, created suing terminal vi sample.txt command.
